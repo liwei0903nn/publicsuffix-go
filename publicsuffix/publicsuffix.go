@@ -12,7 +12,8 @@ import (
 	"regexp"
 	"strings"
 
-	"golang.org/x/net/idna"
+	//"golang.org/x/net/idna"
+	"github.com/liwei0903nn/idna"
 )
 
 const (
